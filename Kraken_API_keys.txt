@@ -1,0 +1,13 @@
+API Key:
+OX3DwYbc9yHi269XzX3o0qGzieOINYClFuIlwdRfOwUtCG4d0Fzgc970
+
+Private Key:
+WYLCfkUMq2tM4o91PpvvlXcX6WRn2OwzIUv4yE7/A6uDxamkMBlGkDqaN+KcsNOVM3kWMmQTUXAu2zMuBd9rZA==
+
+API description:
+api-key-1612490233994
+
+Query Funds
+Query Ledger Entries
+Export Data
+Access Websocket API
